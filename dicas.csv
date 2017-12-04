@@ -1,0 +1,2 @@
+-parar o treinamento quando o erro do dataset de teste parar de cair (early-stopping)
+-retirar as features com peso valor de 0 porque estao contribuindo pouco
