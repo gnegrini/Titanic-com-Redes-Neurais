@@ -1,0 +1,2 @@
+sudo apt-get install pandoc
+jupyter nbconvert --to pdf ANN_Titanic.ipynb
